@@ -4,7 +4,7 @@ main()
 {
 	int raggio;
 	float area;
-    double area2;
+    	double area2;
 	printf("inserisci il raggio \n");
 	scanf("%d",&raggio);
 	printf("Il raggio e': %d\n", raggio);
